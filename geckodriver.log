@@ -1,0 +1,1028 @@
+1581438835390	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\C21DAV~1.THA\\AppData\\Local\\Temp\\rust_mozprofile.s5JcWgBL39Bg"
+1581438836137	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581438836287	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581438836287	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581438836288	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581438836288	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581438839178	Marionette	INFO	Listening on port 54951
+1581438839617	Marionette	WARN	TLS certificate errors will be ignored for this session
+1581439274788	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1581439623915	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1581440320676	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1581442507442	Marionette	INFO	Stopped listening on port 54951
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 1328, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1579288126/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x5B0005,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+1581521225086	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\C21DAV~1.THA\\AppData\\Local\\Temp\\rust_mozprofile.CkTb5eVEBLw5"
+1581521225538	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581521226385	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581521226385	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581521226385	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581521226385	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581521229082	Marionette	INFO	Listening on port 62017
+1581521229211	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 11844, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1581105380/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+1581521341566	Marionette	INFO	Stopped listening on port 62017
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1581616689532	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\C21DAV~1.THA\\AppData\\Local\\Temp\\rust_mozprofile.31ZyQBgFBAG7"
+1581616690493	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581616691369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581616691369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581616691369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581616691370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581616694632	Marionette	INFO	Listening on port 51952
+1581616694812	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js, line 1745: Error: Script terminated by timeout at:
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1745:1
+y</t.prototype.compute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1749:180
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1747:55
+c/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1729:29
+u</e.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1727:137
+A</t.prototype.compute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1759:174
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1747:55
+c/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1729:29
+u</e.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1727:137
+v</t.prototype.compute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1754:31
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1747:55
+c/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1729:29
+u</e.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1727:137
+A</t.prototype.compute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1759:174
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1747:55
+c/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1729:29
+u</e.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1727:137
+A</t.prototype.compute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1759:174
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1747:55
+c/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1729:29
+u</e.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1727:137
+v</t.prototype.compute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1754:31
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1747:55
+c/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1729:29
+u</e.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1727:137
+A</t.prototype.compute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1759:174
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1747:55
+c/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1729:29
+u</e.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1727:137
+y</t.prototype.compute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1749:180
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1747:55
+c/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1729:29
+u</e.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1727:137
+y</t.prototype.compute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1749:180
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1747:55
+c/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1729:29
+u</e.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1727:137
+A</t.prototype.compute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1759:174
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1747:55
+c/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1729:29
+u</e.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1727:137
+v</t.prototype.compute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1754:31
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1747:55
+c/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1729:29
+u</e.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1727:137
+v</t.prototype.compute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1754:31
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1747:55
+c/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1729:29
+u</e.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1727:137
+v</t.prototype.compute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1754:31
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1747:55
+c/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1729:29
+u</e.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1727:137
+A</t.prototype.compute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1759:174
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1747:55
+s</e.prototype.validate@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1725:97
+c/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1729:69
+u</e.prototype.validate@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1727:206
+L</t.prototype.evaluate@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1907:24
+ar</e.prototype.execute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:2355:73
+fr</e.prototype.rerender@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:2382:32
+e/this.render/l.render@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:3047:30
+e.runInTransaction@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:3259:71
+b</e.prototype._renderRoots@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:3064:181
+b</e.prototype._renderRootsTransaction@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:3069:10
+b</e.prototype._revalidate@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:3071:337
+a</e.prototype.invokeWithOnError@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:2480:250
+a</e.prototype.flush@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:2467:172
+u</e.prototype.flush@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:2483:15
+p</e.prototype.end@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:2491:9
+p</e.prototype.run@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:2502:70
+p</e.prototype.join@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:2502:201
+at.join@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:3439:83
+handleEvent/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:4332:262
+e.flaggedInstrument@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:3422:94
+handleEvent@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:4332:203
+a.handleEvent@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:4287:384
+_bubbleEvent@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:4298:139
+setupHandler/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:4294:53
+dispatch@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1466:404
+add/g.handle@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1461:241
+nrWrapper@https://learn.zybooks.com/signin:17:16531
+
+JavaScript error: https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js, line 3054: Error: infinite rendering invalidation detected
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1581616920354	Marionette	INFO	Stopped listening on port 51952
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1581616926151	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\C21DAV~1.THA\\AppData\\Local\\Temp\\rust_mozprofile.LgRapHEkkeae"
+1581616927290	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581616928568	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581616928568	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581616928568	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581616928568	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581616931656	Marionette	INFO	Listening on port 52119
+1581616931882	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js, line 1745: Error: Script terminated by timeout at:
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1745:1
+y</t.prototype.compute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1749:180
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1747:55
+c/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1729:29
+u</e.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1727:137
+v</t.prototype.compute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1754:31
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1747:55
+c/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1729:29
+u</e.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1727:137
+y</t.prototype.compute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1749:160
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1747:55
+c/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1729:29
+u</e.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1727:137
+v</t.prototype.compute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1754:31
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1747:55
+c/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1729:29
+u</e.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1727:137
+v</t.prototype.compute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1754:31
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1747:55
+c/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1729:29
+u</e.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1727:137
+A</t.prototype.compute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1759:174
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1747:55
+c/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1729:29
+u</e.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1727:137
+y</t.prototype.compute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1749:180
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1747:55
+c/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1729:29
+u</e.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1727:137
+A</t.prototype.compute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1759:174
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1747:55
+c/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1729:29
+u</e.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1727:137
+A</t.prototype.compute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1759:174
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1747:55
+c/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1729:29
+u</e.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1727:137
+v</t.prototype.compute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1754:31
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1747:55
+c/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1729:29
+u</e.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1727:137
+v</t.prototype.compute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1754:31
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1747:55
+c/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1729:29
+u</e.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1727:137
+A</t.prototype.compute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1759:174
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1747:55
+c/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1729:29
+u</e.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1727:137
+v</t.prototype.compute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1754:31
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1747:55
+c/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1729:29
+u</e.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1727:137
+A</t.prototype.compute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1759:174
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1747:55
+c/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1729:29
+u</e.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1727:137
+y</t.prototype.compute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1749:180
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1747:55
+c/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1729:29
+u</e.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1727:137
+y</t.prototype.compute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1749:180
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1747:55
+c/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1729:29
+u</e.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1727:137
+A</t.prototype.compute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1759:174
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1747:55
+c/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1729:29
+u</e.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1727:137
+v</t.prototype.compute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1754:31
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1747:55
+c/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1729:29
+u</e.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1727:137
+v</t.prototype.compute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1754:31
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1747:55
+c/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1729:29
+u</e.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1727:137
+A</t.prototype.compute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1759:174
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1747:55
+c/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1729:29
+u</e.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1727:137
+v</t.prototype.compute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1754:31
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1747:55
+c/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1729:29
+u</e.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1727:137
+v</t.prototype.compute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1754:31
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1747:55
+c/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1729:29
+u</e.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1727:137
+A</t.prototype.compute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1759:174
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1747:55
+c/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1729:29
+u</e.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1727:137
+y</t.prototype.compute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1749:180
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1747:55
+c/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1729:29
+u</e.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1727:137
+A</t.prototype.compute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1759:174
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1747:55
+c/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1729:29
+u</e.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1727:137
+v</t.prototype.compute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1754:31
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1747:55
+c/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1729:29
+u</e.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1727:137
+A</t.prototype.compute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1759:174
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1747:55
+c/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1729:29
+u</e.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1727:137
+A</t.prototype.compute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1759:174
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1747:55
+c/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1729:29
+u</e.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1727:137
+v</t.prototype.compute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1754:31
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1747:55
+c/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1729:29
+u</e.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1727:137
+A</t.prototype.compute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1759:174
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1747:55
+c/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1729:29
+u</e.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1727:137
+y</t.prototype.compute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1749:180
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1747:55
+c/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1729:29
+u</e.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1727:137
+y</t.prototype.compute@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1749:180
+b</t.prototype.value@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1747:55
+c/<@https://learn.zybooks.com/assets/vendor-7b9b444894f660fbc810bab136d36921.js:1729:29
+
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581617075265	Marionette	INFO	Stopped listening on port 52119
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1581690375695	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\C21DAV~1.THA\\AppData\\Local\\Temp\\rust_mozprofile.RmJnb7KG9ILO"
+1581690376406	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581690377038	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581690377038	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581690377038	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581690377038	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581690381173	Marionette	INFO	Listening on port 55072
+1581690399552	Marionette	INFO	Stopped listening on port 55072
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1582212932705	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\C21DAV~1.THA\\AppData\\Local\\Temp\\rust_mozprofile.usVvMFF4MrYQ"
+1582212933099	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582212933602	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582212933602	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582212933602	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582212933602	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582212935911	Marionette	INFO	Listening on port 55247
+1582212936382	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582213748938	Marionette	INFO	Stopped listening on port 55247
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ns.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582213041789	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582213041789	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582213041790	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582213041790	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582213044028	Marionette	INFO	Listening on port 55419
+1582213044062	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582213106704	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 65: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 208: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 256: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 392: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 426: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 460: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 100: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 121: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 186: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 211: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 620: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 772: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 809: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 818: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 840: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 1127: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 1149: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 1179: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 1209: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 1238: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 1267: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 72: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 173: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 311: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 410: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 545: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 684: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 753: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 882: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 977: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 1138: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 1370: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 1403: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 1434: unreachable code after return statement
+1582213251415	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 65: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 208: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 256: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 392: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 426: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 460: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 100: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 121: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 186: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 211: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 620: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 772: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 809: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 818: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 840: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 1127: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 1149: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 1179: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 1209: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 1238: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 1267: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 72: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 173: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 311: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 410: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 545: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 684: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 753: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 882: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 977: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 1138: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 1370: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 1403: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 1434: unreachable code after return statement
+1582213477827	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 65: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 208: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 256: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 392: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 426: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 460: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 100: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 121: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 186: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 211: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 620: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 772: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 809: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 818: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 840: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 1127: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 1149: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 1179: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 1209: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 1238: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 1267: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 72: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 173: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 311: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 410: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 545: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 684: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 753: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 882: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 977: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 1138: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 1370: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 1403: unreachable code after return statement
+JavaScript warning: https://zytools.zybooks.com/zyBooks2/fingerprinted/ad7516a2-4645-4dfd-82fc-f89638dbd4b7/vendor/skulpt.min.js, line 1434: unreachable code after return statement
+1582213745388	Marionette	INFO	Stopped listening on port 55419
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1584489840041	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\C21DAV~1.THA\\AppData\\Local\\Temp\\rust_mozprofile.CykBJuXfYQ4h"
+1584489840398	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584489840811	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584489840811	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584489840811	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584489840811	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584489842819	Marionette	INFO	Listening on port 51642
+1584489843164	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1584489847723	Marionette	INFO	Stopped listening on port 51642
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584490292395	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\C21DAV~1.THA\\AppData\\Local\\Temp\\rust_mozprofile.nvJtAvdFG6kh"
+1584490292757	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584490293165	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584490293165	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584490293165	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584490293165	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584490295024	Marionette	INFO	Listening on port 51800
+1584490295511	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584490298553	Marionette	INFO	Stopped listening on port 51800
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584490405345	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\C21DAV~1.THA\\AppData\\Local\\Temp\\rust_mozprofile.2tVIiysHhrdS"
+1584490405716	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584490406136	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584490406136	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584490406137	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584490406137	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584490408214	Marionette	INFO	Listening on port 51872
+1584490408463	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584490438023	Marionette	INFO	Stopped listening on port 51872
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584490539743	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\C21DAV~1.THA\\AppData\\Local\\Temp\\rust_mozprofile.jdNsuhHFuu4w"
+1584490540110	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584490540521	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584490540521	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584490540521	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584490540521	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584490542611	Marionette	INFO	Listening on port 51960
+1584490542877	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584490557341	Marionette	INFO	Stopped listening on port 51960
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584490850599	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\C21DAV~1.THA\\AppData\\Local\\Temp\\rust_mozprofile.idrsf2Fu65K1"
+1584490850968	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584490851387	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584490851387	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584490851387	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584490851387	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584490853400	Marionette	INFO	Listening on port 52040
+1584490853716	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584490924944	Marionette	INFO	Stopped listening on port 52040
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584490941268	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\C21DAV~1.THA\\AppData\\Local\\Temp\\rust_mozprofile.lZ4ho6Tzo0Fc"
+1584490941630	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584490942028	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584490942028	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584490942028	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584490942028	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584490944017	Marionette	INFO	Listening on port 52089
+1584490944387	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584491254146	Marionette	INFO	Stopped listening on port 52089
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ns.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584491150254	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584491150254	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584491150255	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584491150255	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584491152253	Marionette	INFO	Listening on port 52183
+1584491152613	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.microsoftonline.com"
+1584492316543	Marionette	INFO	Stopped listening on port 52183
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ns.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584491214761	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584491214762	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584491214762	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584491214762	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584491216785	Marionette	INFO	Listening on port 52252
+1584491217070	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584491255952	Marionette	INFO	Stopped listening on port 52252
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ns.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584491252737	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584491252738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584491252738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584491252738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584491255648	Marionette	INFO	Listening on port 52313
+1584491255997	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.microsoftonline.com"
+1584492540194	Marionette	INFO	Stopped listening on port 52313
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ion permission: networkStatus
+1584491434863	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584491434863	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584491434863	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584491434864	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584491437214	Marionette	INFO	Listening on port 52397
+1584491437672	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 9: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 9: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 9: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 9: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 9: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 9: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 9: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 9: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 9: unreachable code after return statement
+JavaScript error: https://eus.rubiconproject.com/usync.html?&us_privacy=1YNY&geo=na&co=us1584493630638	Marionette	INFO	Stopped listening on port 52478
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+iveview/js/current/osd_listener.js?cache=r20110914:6:24497
+Ld/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:25766
+td/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:22974
+Ld@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:26015
+Od/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:26137
+td/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:22974
+td/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:23018
+
+JavaScript error: https://eus.rubiconproject.com/usync.html?us_privacy=1YNY, line 12: SecurityError: The operation is insecure.
+1584493037872	Marionette	INFO	Stopped listening on port 52397
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ns.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584491886237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584491886237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584491886237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584491886237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584491888410	Marionette	INFO	Listening on port 52944
+1584491888568	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+1584492323260	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\C21DAV~1.THA\\AppData\\Local\\Temp\\rust_mozprofile.Wz4jhx2ZD5AA"
+1584492323675	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584492324203	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584492324203	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584492324203	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584492324203	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584492326709	Marionette	INFO	Listening on port 53131
+1584492326885	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.microsoftonline.com"
+1584492536332	Marionette	INFO	Stopped listening on port 53131
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ns.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584492462960	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584492462960	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584492462960	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584492462960	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584492464997	Marionette	INFO	Listening on port 53232
+1584492465283	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584492534172	Marionette	INFO	Stopped listening on port 53232
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584492617019	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\C21DAV~1.THA\\AppData\\Local\\Temp\\rust_mozprofile.j3w4URuagz5A"
+1584492617380	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584492617775	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584492617775	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584492617776	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584492617776	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584492619769	Marionette	INFO	Listening on port 53510
+1584492620137	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584493034173	Marionette	INFO	Stopped listening on port 53510
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ns.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584492734017	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584492734018	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584492734018	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584492734018	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584492736102	Marionette	INFO	Listening on port 53577
+1584492736334	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584492786273	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\C21DAV~1.THA\\AppData\\Local\\Temp\\rust_mozprofile.DdPiGidOtgcn"
+1584492786648	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584492787072	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584492787073	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584492787073	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584492787073	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584492789131	Marionette	INFO	Listening on port 53638
+1584492789401	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584492836911	Marionette	INFO	Stopped listening on port 53638
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584492852656	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\C21DAV~1.THA\\AppData\\Local\\Temp\\rust_mozprofile.pi0m7cxmT5Mt"
+1584492853025	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584492853417	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584492853418	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584492853418	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584492853418	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584492855535	Marionette	INFO	Listening on port 53705
+1584492855777	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584493032561	Marionette	INFO	Stopped listening on port 53705
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ns.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584492971345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584492971345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584492971345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584492971345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584492973432	Marionette	INFO	Listening on port 53769
+1584492973660	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584493029642	Marionette	INFO	Stopped listening on port 53769
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ns.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584493000825	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584493000826	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584493000826	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584493000826	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584493003130	Marionette	INFO	Listening on port 53822
+1584493003149	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584493031123	Marionette	INFO	Stopped listening on port 53822
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584493088659	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\C21DAV~1.THA\\AppData\\Local\\Temp\\rust_mozprofile.fUYCjvCYWk9l"
+1584493089024	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584493089444	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584493089445	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584493089445	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584493089445	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584493091537	Marionette	INFO	Listening on port 54026
+1584493091775	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584493134486	Marionette	INFO	Stopped listening on port 54026
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584493138692	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\C21DAV~1.THA\\AppData\\Local\\Temp\\rust_mozprofile.yzQA6LfTMdem"
+1584493139071	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584493139500	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584493139501	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584493139501	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584493139501	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584493141565	Marionette	INFO	Listening on port 54088
+1584493141808	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584493602351	Marionette	INFO	Stopped listening on port 54088
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ns.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584493183739	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584493183739	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584493183739	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584493183739	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584493185806	Marionette	INFO	Listening on port 54153
+1584493186045	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584493600698	Marionette	INFO	Stopped listening on port 54153
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ns.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584493232482	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584493232482	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584493232483	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584493232483	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584493234709	Marionette	INFO	Listening on port 54225
+1584493234803	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584493599322	Marionette	INFO	Stopped listening on port 54225
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ns.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584493303136	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584493303136	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584493303136	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584493303137	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584493305279	Marionette	INFO	Listening on port 54289
+1584493305469	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584493598014	Marionette	INFO	Stopped listening on port 54289
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ns.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584493335072	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584493335073	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584493335073	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584493335073	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584493337280	Marionette	INFO	Listening on port 54349
+1584493337387	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+1584493412609	Marionette	INFO	Stopped listening on port 54349
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584493423911	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\C21DAV~1.THA\\AppData\\Local\\Temp\\rust_mozprofile.2GzYjKsb7C03"
+1584493424308	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584493424761	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584493424761	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584493424761	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584493424761	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584493427203	Marionette	INFO	Listening on port 54435
+1584493427527	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2243))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:944:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (unknownError): node is null", "resource://devtools/shared/protocol/Front.js", 276))
+JavaScript error: , line 0: uncaught exception: Object
+1584493596550	Marionette	INFO	Stopped listening on port 54435
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584493507051	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584493507051	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584493507051	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584493507051	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584493509174	Marionette	INFO	Listening on port 54518
+1584493509361	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584493634029	Marionette	INFO	Stopped listening on port 54518
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: uncaught exception: Object
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1584493659751	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\C21DAV~1.THA\\AppData\\Local\\Temp\\rust_mozprofile.lxfMcIagq7Mz"
+1584493660124	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584493660514	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584493660515	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584493660515	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584493660515	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584493662406	Marionette	INFO	Listening on port 54614
+1584493662893	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584493786259	Marionette	INFO	Stopped listening on port 54614
+JavaScript error: , line 0: uncaught exception: Object
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x37012E,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB30006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584493870427	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\C21DAV~1.THA\\AppData\\Local\\Temp\\rust_mozprofile.DTwndZ23zMGz"
+1584493870792	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584493871185	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584493871186	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584493871186	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584493871186	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584493873182	Marionette	INFO	Listening on port 54775
+1584493873559	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+1584493938142	Marionette	INFO	Stopped listening on port 54775
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1584494035821	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\C21DAV~1.THA\\AppData\\Local\\Temp\\rust_mozprofile.wkjwr3vNqWm0"
+1584494036193	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584494036598	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584494036598	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584494036598	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584494036599	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584494038667	Marionette	INFO	Listening on port 54872
+1584494038972	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584494160981	Marionette	INFO	Stopped listening on port 54872
+JavaScript error: , line 0: uncaught exception: Object
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1584494258390	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\C21DAV~1.THA\\AppData\\Local\\Temp\\rust_mozprofile.vnoikwMCHIg9"
+1584494258761	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584494259150	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584494259150	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584494259150	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584494259150	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584494261112	Marionette	INFO	Listening on port 54999
+1584494261521	Marionette	WARN	TLS certificate errors will be ignored for this session
