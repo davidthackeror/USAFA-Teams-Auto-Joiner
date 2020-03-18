@@ -12,7 +12,7 @@ This repository seeks to create an AutoJoin Teams feature to facilitate the sche
 BEFORE RUNNING
 =============
 
-Users must edit the python script in any text editor and add their username and password underneath the comments at the beginning of the script. This is hardcoded so that the user can run the script without user input on launch..
+Users must edit the python script in any text editor and add their username and password underneath the comments at the beginning of the script. This is hardcoded so that the user can run the script without user input on launch. Edits should also be made to match the URL of the naviagted to classroom with their own, as it is currently unknown if class URL's are universal or distinct for each user.
 
 Additionally users should follow the instructions at the following link to ensure they install Selenium
 
